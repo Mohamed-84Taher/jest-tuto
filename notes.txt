@@ -1,0 +1,12 @@
+Testing Rules
+
+[1] Get The Function To Testing
+[2] Give Input To The Function
+[3] Define What is the Output
+[4] Check For The Output
+
+TDD => Test Driven Development
+
+[1] Think About what Your Code Will Do
+[2] Write The Code 
+[3] Test The Code
